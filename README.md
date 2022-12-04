@@ -1,7 +1,7 @@
-## Walkthrough Video URL Link shows functionality of application: 
+# Walkthrough Video URL Link shows functionality of application: 
 Video URL:
 
-# Title
+## Title
 Object-Oriented Programming: Team of Employees Profile Generator 
 
 ## Author
