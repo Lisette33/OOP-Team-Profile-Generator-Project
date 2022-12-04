@@ -1,0 +1,27 @@
+{
+  "name": "oop-team-profile-generator-project",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose", 
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lisette33/OOP-Team-Profile-Generator-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lisette33/OOP-Team-Profile-Generator-Project/issues"
+  },
+  "homepage": "https://github.com/Lisette33/OOP-Team-Profile-Generator-Project#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
