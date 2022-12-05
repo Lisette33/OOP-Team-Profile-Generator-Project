@@ -4,7 +4,7 @@ describe('Engineer Functionality', () => {
     const name = "Sky Linn"
     const id = "20"
     const email = "Sky@gmail.com"
-    const github = "Sky1"
+    const github = "Sky12"
 
     const person = new Engineer(name,id,email,github);
 

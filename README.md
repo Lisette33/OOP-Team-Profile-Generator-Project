@@ -1,3 +1,9 @@
+## Walkthrough Video URL Link shows functionality of application: 
+Video URL:
+
+# Title
+OOP: Team Profile Generator
+
 # Walkthrough Video URL Link shows functionality of application: 
 Video URL:
 

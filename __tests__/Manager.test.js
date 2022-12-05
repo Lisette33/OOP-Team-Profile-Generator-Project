@@ -3,7 +3,7 @@ const Manager = require('../lib/Manager');
 describe('Manager Functionality', () => {
     const name = "Rose Glenn"
     const id = "10"
-    const email = "Rose@gmail.com"
+    const email = "Rose1@gmail.com"
     const officeNumber = "150"
 
     const person = new Manager(name,id,email,officeNumber);
