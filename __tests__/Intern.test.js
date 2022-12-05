@@ -3,7 +3,7 @@ const Intern = require('../lib/Intern');
 describe('Intern Functionality', () => {
     const name = "Flore Hall "
     const id = "30"
-    const email = "Flore@gmail.com"
+    const email = "BJay@gmail.com"
     const school = "College"
 
     const person = new Intern(name,id,email,school);
