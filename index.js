@@ -115,29 +115,29 @@ function init() {
                 <div class="tile is-ancestor">
                     <div class="tile is-parent" style="background-color: #05d1b2">
                         <article class="tile is-child box">
-                        <p class="name">${response.name1}</p>
+                        <b><p class="name"> ${response.name1}</p></b>
                         <b><p class="manager-title"> <i class="fa-solid fa-mug-hot"></i> Manager</p></b>
-                        <p class="tile-one"><b>ID:</b> ${response.id1}</p>
-                        <p class="title-two"><b>Email:</b> ${response.emailAddress1}</p>
-                        <p class="title-three"><b> ${response.officeNumber}</p>
+                        <p class="tile-one"><b>ID: ${response.id1}</p></b>
+                        <p class="title-two"><b>Email:<a href="mailto:Rose1@gmail.com"> ${response.emailAddress1}</a></p></b>
+                        <p class="title-three"><b> ${response.officeNumber}</p></b>
                         </article>
                     </div>
                     <div class="tile is-parent" style="background-color: #05d1b2">
                         <article class="tile is-child box">
-                        <p class="name">${response.name2}</p>
+                        <b><p class="name"> ${response.name2}</p></b>
                         <b><p class="manager-title"> <i class="fa-solid fa-pen-to-square"></i> Engineer</p></b>
-                        <p class="tile-one"><b>ID:</b> ${response.id2}</p>
-                        <p class="title-two"><b>Email:</b> ${response.emailAddress2}</p>
-                        <p class="tile-three"><b>GitHub Username:</b> ${response.gitHubUsername}</p>
+                        <p class="tile-one"><b>ID: ${response.id2}</p></b>
+                        <p class="title-two"><b>Email:<a href="mailto:Sky@gmail.com"> ${response.emailAddress2}</a></p></b>
+                        <p class="tile-three"><b>GitHub Username:<b> ${response.gitHubUsername}</p></b>
                         </article>
                     </div>
                     <div class="tile is-parent" style="background-color: #05d1b2">
                         <article class="tile is-child box">
-                        <p class="name">${response.name3}</p>
-                        <p class="manager-title"> <i class="fa-solid fa-user-graduate"></i>Intern</p>
-                        <p class="tile-one"><b>ID:</b> ${response.id3}</p>
-                        <p class="title-two"><b>Email:</b> ${response.emailAddress3}</p>
-                        <p class="tile-three"><b>School:</b> ${response.school}</p>
+                        <p class="name"> ${response.name3}</p>
+                        <p class="manager-title"> <i class="fa-solid fa-user-graduate"></i><b>Intern</p></b>
+                        <p class="tile-one"><b>ID: ${response.id3}</p></b>
+                        <p class="title-two"><b>Email:<a href="mailto:BJay@gmail.com"> ${response.emailAddress3}</a></p></b>
+                        <p class="tile-three"><b>School: ${response.school}</p></b>
                         </article>
                     </div>
                 </div>
