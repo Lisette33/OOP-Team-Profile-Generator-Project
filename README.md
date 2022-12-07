@@ -1,5 +1,5 @@
 # Walkthrough Video URL Link shows functionality of application: 
-Video URL:
+Video URL: https://drive.google.com/file/d/1l70Skr607JZeo4gYzaJytMCc_RTNej4y/view
 
 ## Title
 Object-Oriented Programming: Team of Employees Profile Generator 
