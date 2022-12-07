@@ -22,7 +22,7 @@ The project is creating the Node.js command-line application that uses data from
 I would like to thank those who provided their helpful guidance.
 
 ## Screenshot of Application
-![OOP-Team-Profile-Generator]
+![OOP-Team-Profile-Generator](https://user-images.githubusercontent.com/113862182/206061886-d1acb867-7895-4a07-bbda-4993e70186fe.png)
 
 ## Project Guidelines stated as:
 
